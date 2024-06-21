@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "161510576211",
-    "project_id": "mychat1-aec07",
-    "storage_bucket": "mychat1-aec07.appspot.com"
+    "project_number": "453428580142",
+    "project_id": "mychat-813f1",
+    "storage_bucket": "mychat-813f1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:161510576211:android:afa8d4ce91ffb190f076a6",
+        "mobilesdk_app_id": "1:453428580142:android:2ef91fc0014a64ca34f4bf",
         "android_client_info": {
           "package_name": "net.ourweb.mychat"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBi4ruQ9hmXzlotptCHYBfp2-BMzff6c_Y"
+          "current_key": "AIzaSyC6ccJaoAEb2IAa8qhVWSyT75gBTKM10Kg"
         }
       ],
       "services": {
